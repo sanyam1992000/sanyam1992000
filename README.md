@@ -3,24 +3,31 @@
 
 <div>
 
-- 🔭 I’m currently working on **Django**
+- I’m currently working on **Django**
 
-- 🌱 I’m currently learning **React**
+- I’m currently learning **React**
 
-- 👨‍Some of my projects are available at my [Github](https://github.com/sanyam1992000?tab=repositories)
+- Some of my projects are available at my [Github](https://github.com/sanyam1992000?tab=repositories)
 
-- 💬 Ask me about **Python, Django, Javascript, jQuery, Data Structures and Algorithms**
+- Ask me about **Python, Django, Javascript, jQuery, Data Structures and Algorithms**
 
-- 📫 How to reach me **sanyam19092000@gmail.com**
+- How to reach me **sanyam19092000@gmail.com**
 
 </div>
 
-<div>
+<div class="row">
+
+<div class="col">
 
 [![Sanyam's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam1992000&theme=dark)](https://github.com/sanyam1992000/sanyam19920000)
 
+</div>
+
+<div class="col">
+
 [![Sanyam's top languages stats](https://github-readme-stats.vercel.app/api?username=sanyam1992000&show_icons=true&theme=dark)](https://github.com/sanyam1992000/sanyam19920000)
 
+</div>
 </div>
 
 <div>
