@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Sanyam Mittal</h1>
 <h3 align="center">Full Stack Web Developer || Django Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam1992000" alt="sanyam1992000" /> </p>
+
 <div>
 
 - I’m currently working on **Django**
