@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f2109ed-cc31-4236-8210-9ebc5fb214e5" name="Default Changelist" comment="" />
+    <list default="true" id="5f2109ed-cc31-4236-8210-9ebc5fb214e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="b73645a6-1196-4e06-bad0-d5f3ccb54281" />
   <component name="ProjectId" id="1l3cy6hIZ5VI8x9jGyLbplL1ohC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,10 +38,17 @@
       <option name="presentableId" value="Default" />
       <updated>1606829466167</updated>
       <workItem from="1606829467504" duration="4826000" />
+      <workItem from="1623986570836" duration="3363000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="324" y="199" width="651" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623987073096">
+      <screen x="0" y="27" width="1310" height="741" />
+    </state>
+    <state x="324" y="199" width="651" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1310.741@0.27.1310.741" timestamp="1623987073096" />
   </component>
 </project>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sanyam Mittal</h1>
-<h3 align="center">Full Stack Web Developer || Django Developer</h3>
+<h3 align="center">Full Stack Web Developer || Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam1992000" alt="sanyam1992000" /> </p>
 
@@ -7,13 +7,13 @@
 
 - I’m currently working on **Django**
 
-- I’m currently learning **React**
+- Currently looking for SDE internships.
 
-- Currently working at **DigiLocker (by Govt of India)** as Web Developer Intern
+- Previously Worked at **Nexstem Cortex BCI, DigiLocker (by Govt of India)** as Backend Developer Intern
 
 - Some of my projects are available at my [Github](https://github.com/sanyam1992000?tab=repositories)
 
-- Ask me about **Python, Django, Javascript, jQuery, Data Structures and Algorithms**
+- Ask me about **Python, Django, Javascript, Data Structures and Algorithms**
 
 - How to reach me **sanyam19092000@gmail.com**
 
@@ -27,7 +27,7 @@
 <div class="row">
 <h2>Some of my work</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=xunbao-2020&theme=dark)](https://github.com/sanyam1992000/xunbao-2020) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=boringlectures&theme=dark)](https://github.com/sanyam1992000/boringlectures) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=dynamicFR&theme=dark)](https://github.com/sanyam1992000/dynamicFR) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=cncwebsitedjango&theme=dark)](https://github.com/sanyam1992000/cncwebsitedjango) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=DAA-assignment&theme=dark)](https://github.com/sanyam1992000/DAA-assignment) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Praveen2105&repo=NSAC-Trailblazers&theme=dark)](https://github.com/Praveen2105/NSAC-Trailblazers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=xunbao-2020&theme=dark)](https://github.com/sanyam1992000/xunbao-2020) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=boringlectures&theme=dark)](https://github.com/sanyam1992000/boringlectures) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=dynamicFR&theme=dark)](https://github.com/sanyam1992000/dynamicFR) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=cncwebsitedjango&theme=dark)](https://github.com/sanyam1992000/cncwebsitedjango) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=DAA-assignment&theme=dark)](https://github.com/sanyam1992000/DAA-assignment) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanyam1992000&repo=NSAC-Trailblazers&theme=dark)](https://github.com/sanyam1992000/NSAC-Trailblazers)
 </div>
 <br>
 
