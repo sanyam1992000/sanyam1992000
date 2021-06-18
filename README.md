@@ -5,9 +5,9 @@
 
 <div>
 
-- I’m currently working on **Django**
+- I’m currently working on **Django, Python**.
 
-- Currently looking for SDE internships.
+- Currently looking for **SDE internships**.
 
 - Previously Worked at **Nexstem Cortex BCI, DigiLocker (by Govt of India)** as Backend Developer Intern
 
@@ -33,8 +33,7 @@
 
 <div>
 <p align="center">
-<a href="https://linkedin.com/in/sanyam1992000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanyam1992000" height="30" width="30" /></a>
-<a href="https://kaggle.com/sanyam1992000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sanyam1992000" height="30" width="30" /></a>
-<a href="https://instagram.com/sanyam__mittal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanyam1992000" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/sanyam1992000" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="sanyam1992000" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/sanyam1992000" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" alt="sanyam1992000" height="30"/></a>
 </p>
 </div>
